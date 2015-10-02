@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/03/15 15:44:39.000.558,C:\Users\Maickonn\Documents\RAD Studio\Projects\ProjectGroup1.groupproj=C:\Users\Maickonn\Desktop\Access PC With File Manager com Heranca de Formulario e CHAT (COMPATIVEL COM WINDOWS 8) - Source Code\ProjectGroup1.groupproj</Transaction>
+    <Transaction>2014/03/17 02:38:01.000.069,C:\Users\Maickonn\Desktop\DELPHI XE5 - Access PC With File Manager com Heranca de Formulario e CHAT (COMPATIVEL COM WINDOWS 8) - Source Code\ProjectGroup1.groupproj=C:\Users\Maickonn\Desktop\DELPHI XE5 - Access PC With File Manager com Heranca de Formulario e CHAT (COMPATIVEL COM WINDOWS 8) - Source Code\Projeto_Access_PC.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="C:\Users\Maickonn\Desktop\Access_PC_Delphi\Fontes Access PC - Delphi XE5\Cliente\Access_PC_Client.dproj"/>
+	</Default.Personality>
+</BorlandProject>
