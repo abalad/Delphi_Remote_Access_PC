@@ -26,8 +26,9 @@ https://www.youtube.com/watch?v=bq_2-Dxu2R0
 
 ------------------------------------------------------------------------------
 
+#Todos os componentes utilizados são nativos do próprio Delphi.
 
-Provavelmente quando você abrir o projeto, vai aparecer uma mensagem falando que falta componente.
+Provavelmente quando você abrir o projeto, vai aparecer uma mensagem avisando que falta componente.
 O que você deve fazer é seguir os seguintes passos:
 
 
@@ -49,9 +50,9 @@ O que você deve fazer é seguir os seguintes passos:
 
 
 <strong>Na pasta Units, você encontrará:</strong>
-* Unit zLibEx.pas com a pasta zLib - Usada para comprimir dados. (Você deve copiar a pasta zLib para dentro do Projeto).
-* StreamManager.pas - Criada para capturar a tela, e fazer a comparação.
-* SndKeys32.pas - Serve para simular tecla pressionada.
+* Unit <i>zLibEx.pas</i> com a pasta zLib - Usada para comprimir dados. (Você deve copiar a pasta zLib para dentro do Projeto).
+* <i>StreamManager.pas</i> - Criada para capturar a tela, e fazer a comparação.
+* <i>SndKeys32.pas</i> - Serve para simular tecla pressionada.
 
 <strong>Entendendo o funcionamento do Software.</strong>
 
