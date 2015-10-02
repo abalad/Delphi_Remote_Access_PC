@@ -9,6 +9,7 @@ Acesso Remoto em Delphi 7 e Delphi XE5 (Com Compartilhador de Arquivos, CHAT e H
 				Contato: senjaxus@gmail.com
 				
 				A distribuição desta source é gratuita!
+				
 				NÃO ME RESPONSABILIZO PELO MAU USO DESTA SOURCE.
 
 ------------------------------------------------------------------------------
