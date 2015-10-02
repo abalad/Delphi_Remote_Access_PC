@@ -14,6 +14,18 @@ Acesso Remoto em Delphi 7 e Delphi XE5 (Com Compartilhador de Arquivos, CHAT e H
 
 ------------------------------------------------------------------------------
 
+<strong>Recursos:</strong>
+* Acesso Remoto com algorítimo RFB (Captura apenas o que foi alterado na tela).
+* Compressões de Dados.
+* Compartilhador de Arquivos.
+* Chat.
+* Herança de Formulários (Permite que você acesse várias máquinas ao mesmo tempo em várias janelas).
+
+<strong>Vídeo do Software:</strong>
+https://www.youtube.com/watch?v=bq_2-Dxu2R0
+
+------------------------------------------------------------------------------
+
 
 Provavelmente quando você abrir o projeto, vai aparecer uma mensagem falando que falta componente.
 O que você deve fazer é seguir os seguintes passos:
@@ -40,11 +52,6 @@ O que você deve fazer é seguir os seguintes passos:
 * Unit zLibEx.pas com a pasta zLib - Usada para comprimir dados. (Você deve copiar a pasta zLib para dentro do Projeto).
 * StreamManager.pas - Criada para capturar a tela, e fazer a comparação.
 * SndKeys32.pas - Serve para simular tecla pressionada.
-
-
-
-
------------------------------------------------------------------------------
 
 <strong>Entendendo o funcionamento do Software.</strong>
 
